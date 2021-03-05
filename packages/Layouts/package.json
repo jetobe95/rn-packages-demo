@@ -1,6 +1,6 @@
 {
   "name": "jetobe95_rn_layout",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "React Native Layout Like Flutter",
   "main": "lib/index.js",
   "scripts": {
