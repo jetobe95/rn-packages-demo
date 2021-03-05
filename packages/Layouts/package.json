@@ -1,7 +1,7 @@
 {
   "name": "jetobe95_rn_layout",
-  "version": "1.0.7",
-  "description": "Demo button component",
+  "version": "1.0.8",
+  "description": "React Native Layout Like Flutter",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc --project ./tsconfig.json",
