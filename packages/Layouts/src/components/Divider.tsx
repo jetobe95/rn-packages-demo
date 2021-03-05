@@ -8,7 +8,7 @@ export interface DividerProps {
     height: number
     color: string
 }
-export function Divider({ color, height = 1 }: DividerProps) {
+export function Divider({ color = '#CCCACD', height = 1 }: DividerProps) {
     const style = useMemo(() => ({
         height,
         marginVertical: 10,
